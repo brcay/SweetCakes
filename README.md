@@ -8,4 +8,4 @@ Html
 
 <h2>SweetCakesScreen</h2>
 
-![](Screen.gif)
+![](screen.gif)
